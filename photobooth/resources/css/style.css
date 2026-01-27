@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+video, img {
+    width: 400px;
+    border-radius: 10px;
+}
+
+#counter {
+    font-size: 80px;
+    color: red;
+    margin: 10px;
+}
